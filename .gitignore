@@ -1,0 +1,10 @@
+__pycache__
+.env
+.learnsrc/best_model.h5
+<<<<<<< HEAD
+src/best_model.h5
+src/best_model.h5
+best_model.h5
+
+=======
+>>>>>>> e8490a325a61277644e2ff231cf9df3be4589c6b
